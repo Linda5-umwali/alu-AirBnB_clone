@@ -26,6 +26,7 @@ cd AirBnB_clone
    ./console.py
    
    you will see the prompt (hbnb).
+   
    type commands and press Enter:
 
    scss
