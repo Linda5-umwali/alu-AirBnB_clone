@@ -19,7 +19,7 @@ This project provides a foundation for eventual activities such as HTML/CSS temp
 Clone the repository:
 ```bash
 git clone https://github.com/<Linda5-umwali>/alu-AirBnB_clone.git
-cd AirBnB_clone
+cd alu-AirBnB_clone
 
 ---
 
