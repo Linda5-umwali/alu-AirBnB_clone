@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+"""
+City class for AirBnB clone project.
+"""
+
+from models.base_model import BaseModel
+
+
+class City(BaseModel):
+    """City class that inherits from BaseModel"""
+    pass

@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+"""
+Review class for AirBnB clone project.
+"""
+
+from models.base_model import BaseModel
+
+
+class Review(BaseModel):
+    """Review class that inherits from BaseModel"""
+    pass
