@@ -18,13 +18,13 @@ This project provides a foundation for eventual activities such as HTML/CSS temp
 ### How to start
 Clone the repository:
 ```bash
-https://github.com/Linda5-umwali/alu-AirBnB_clone.git
+git clone https://github.com/Linda5-umwali/alu-AirBnB_clone.git
 cd AirBnB_clone
 
 ---
 
 ### How to use it
-Run the console in interactive mode:
+Run the console:
 
 ./console.py
 
