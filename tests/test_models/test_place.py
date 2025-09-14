@@ -1,19 +1,19 @@
 #!/usr/bin/python3
 """
-Unittests for User class.
+Unittests for Place class.
 """
 
 import unittest
-from models.user import User
+from models.place import Place
 
 
-class TestUser(unittest.TestCase):
-    """Tests for User"""
+class TestPlace(unittest.TestCase):
+    """Tests for Place"""
 
     def test_instance_creation(self):
         """Test that an instance is correctly created"""
-        user = User()
-        self.assertIsInstance(user, User)
+        place = Place()
+        self.assertIsInstance(place, Place)
 
 
 if __name__ == "__main__":
