@@ -17,32 +17,30 @@ This project provides a foundation for eventual activities such as HTML/CSS temp
 
 ### How to start
 Clone the repository:
+```bash
 https://github.com/Linda5-umwali/alu-AirBnB_clone.git
-
 cd AirBnB_clone
 
+---
+
 ### How to use it
-Run the console in interactive mode
+Run the console in interactive mode:
 
-   ./console.py
-   
-   you will see the prompt (hbnb).
-   
-   type commands and press Enter:
+./console.py
 
-   scss
-   
-   copy code
-   
-   (hbnb) help
-   
-   (hbnb) create User
-   
-   (hbnb) show User <id>
-   
-   (hbnb) quit
+ you will see the prompt (hbnb).
+ type commands and press Enter:
+
+scss
+copy code
+(hbnb) help
+(hbnb) create User
+(hbnb) show User <id>
+(hbnb) quit
    
 ### Example
+
+./console.py
 
 (hbnb) create User
 1234-5678-9012-3456
@@ -58,4 +56,8 @@ Run the console in interactive mode
 (hbnb) destroy User 1234-5678-9012-3456
 
 (hbnb) quit
+
+---
+
+
 
